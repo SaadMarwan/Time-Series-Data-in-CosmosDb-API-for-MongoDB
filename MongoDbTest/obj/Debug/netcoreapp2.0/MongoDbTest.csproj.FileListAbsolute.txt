@@ -1,0 +1,11 @@
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.deps.json
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.runtimeconfig.json
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.runtimeconfig.dev.json
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.dll
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.csprojResolveAssemblyReference.cache
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.csproj.CoreCompileInputs.cache
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.AssemblyInfoInputs.cache
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.AssemblyInfo.cs
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.pdb
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.dll
+c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.pdb
