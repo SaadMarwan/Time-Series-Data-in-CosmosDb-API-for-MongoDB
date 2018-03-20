@@ -9,3 +9,14 @@ c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreap
 c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.pdb
 c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.dll
 c:\users\saad al-khatib\source\repos\MongoDbTest\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.pdb
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.deps.json
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.runtimeconfig.json
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.runtimeconfig.dev.json
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.dll
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\bin\Debug\netcoreapp2.0\MongoDbTest.pdb
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.csprojResolveAssemblyReference.cache
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.csproj.CoreCompileInputs.cache
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.AssemblyInfoInputs.cache
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.AssemblyInfo.cs
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.dll
+C:\Users\Saad Al-Khatib\source\repos\MongoDbTest - Copy\MongoDbTest\obj\Debug\netcoreapp2.0\MongoDbTest.pdb

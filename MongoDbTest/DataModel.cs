@@ -6,7 +6,7 @@ using System.Text;
 
 namespace MongoDbTest
 {
-    public class HeartRateModel
+    public class DataModel
     {
         [BsonId(IdGenerator = typeof(CombGuidGenerator))]
         public Guid Id { get; set; }
@@ -26,7 +26,6 @@ namespace MongoDbTest
 
         public Dictionary<string, string> Readings;
 
-      //  public string [] reading { get; set; }
 
 
 
